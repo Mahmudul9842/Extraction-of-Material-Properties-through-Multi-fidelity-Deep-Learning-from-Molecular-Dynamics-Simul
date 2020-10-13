@@ -6,3 +6,5 @@ Each folder has its own read_me.txt file. Read them before manipulating any file
 It is better to have prior knowledge of the paper where data is used to understand the functions of different files.
 
 User of the data files may find the codes complicated. Please contact the author through: mahmudulridzy@gmail.com
+
+All the codes in this repository have been written by Mahmudul Islam, Department of Mechanical Engineering, Bangladesh University of Engineering and Technology.
